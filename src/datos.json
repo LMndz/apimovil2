@@ -1,0 +1,21 @@
+[    
+    {
+        "id": "1",
+        "name": "Luis",
+        "last_name": "Méndez",
+        "credit": "100"
+    },
+    {
+        "id": "2",
+        "name": "William",
+        "last_name": "Flores",
+        "credit": "200"
+    },
+
+    {
+        "id": "3",
+        "name": "Cristhian",
+        "last_name": "Bacusoy",
+        "credit": "150"
+    }
+]
